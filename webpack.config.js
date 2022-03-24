@@ -10,10 +10,13 @@ module.exports = {
     publicPath: "/js/"
   },
   devServer: {
-    open: true,
-    openPage: "index.html",
-    contentBase: path.join(__dirname, "public"),
-    watchContentBase: true,
+    open: ["index.html"],
+    
+    static: {
+      directory: path.join(__dirname, "public"),
+      watch: true
+    },
+    
     port: 3010
   },
   module: {
