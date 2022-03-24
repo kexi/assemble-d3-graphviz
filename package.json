@@ -1,0 +1,19 @@
+{
+  "name": "assemble-d3-graphviz",
+  "version": "1.0.0",
+  "description": "DO NOT USE THIS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kexi/assemble-d3-graphviz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kexi/assemble-d3-graphviz/issues"
+  },
+  "homepage": "https://github.com/kexi/assemble-d3-graphviz#readme"
+}
