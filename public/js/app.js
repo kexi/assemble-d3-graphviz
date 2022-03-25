@@ -9730,7 +9730,7 @@ var __webpack_exports__ = {};
 
 var _d3Graphviz = __webpack_require__(/*! d3-graphviz */ "./node_modules/d3-graphviz/build/d3-graphviz.js");
 
-var d3 = _interopRequireWildcard(_d3Graphviz);
+var dg = _interopRequireWildcard(_d3Graphviz);
 
 function _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj; } else { var newObj = {}; if (obj != null) { for (var key in obj) { if (Object.prototype.hasOwnProperty.call(obj, key)) newObj[key] = obj[key]; } } newObj.default = obj; return newObj; } }
 
